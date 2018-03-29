@@ -1,0 +1,25 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    string spelernummer = (Database.TotaalAantalSpelers() + 1).ToString();
+    bool meerDan1Speler = Database.TotaalAantalSpelers() > 0;
+}
+<div class="container"> 
+    <div class="gegevensContainer">
+        <img src="~/img/yahtzee_light_intro.png" />
+        <p>Gegevens speler @spelernummer </p>
+        <form method="post">
+            <p><label for="naam">Naam:</label></p>
+            @if (ViewBag.Error != null) {
+                <p class="error">@ViewBag.Error</p>
+            }
+            <p><input type="text" name="naam" id="naam"/></p>
+            <p><input type="submit" name="btnSpeler" id="speler" value="Voeg speler toe"></p>
+            
+            @if (meerDan1Speler) {
+            <p><input asp-controller="Speel" asp-action="Uitslag" type="submit" value="Start spel"></p>
+            }
+        </form>
+    </div>
+</div>

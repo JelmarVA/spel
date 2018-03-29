@@ -1,0 +1,60 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model YahtzeeLight.Models.Speler
+@{
+int plaats = (int) ViewData["plaats"];
+}
+<div class="scoreboard">
+    <header> <div>
+                @if (plaats == 1) {
+                    <img src="~/img/goud.png" />
+                } else if (plaats == 2) {
+                    <img src="~/img/zilver.png" />
+                } else if (plaats == 3) {
+                    <img src="~/img/brons.png" />
+                } 
+        <h1>@Model.Naam </h1> </div> <p>score: @Model.TotaleScore</p>
+    </header>
+
+    <div class="score-label-container">
+        <div class="label-container">
+            <div class="item"> Worp</div>
+            <div class="item"> Chance </div>
+            <div class="item"> Drie gelijke </div>
+            <div class="item"> Vier gelijke </div>
+            <div class="item"> Full house </div>
+            <div class="item"> Kleine straat </div>
+            <div class="item"> Grote straat </div>
+            <div class="item"> Yahtzee </div>
+        </div>
+        
+        <div class="score-container">
+            
+            @for(int i = 1; i <= 10; i++) {
+              <div class="item"> @i </div>  
+            }
+
+             @foreach(var worp in Model.Worpen){
+                <div class="score-grid">
+                    <div class="item"> @if(Combinatie.IsChance(worp)){ <div> @Combinatie.getScoreFor(worp) </div>} else {<div>0</div>} </div>
+                    <div class="item"> @if(Combinatie.IsDrieGelijke(worp)){ <div> @Combinatie.getScoreFor(worp) </div>} else {<div>0</div>} </div>
+                    <div class="item"> @if(Combinatie.IsVierGelijke(worp)){ <div> @Combinatie.getScoreFor(worp) </div>} else {<div>0</div>} </div>
+                    <div class="item"> @if(Combinatie.IsFullHouse(worp)){ <div> @Combinatie.getScoreFor(worp) </div>} else {<div>0</div>} </div>
+                    <div class="item"> @if(Combinatie.IsKleineStraat(worp)){ <div> @Combinatie.getScoreFor(worp) </div>} else {<div>0</div>} </div>
+                    <div class="item"> @if(Combinatie.IsGroteStraat(worp)){ <div> @Combinatie.getScoreFor(worp) </div>} else {<div>0</div>} </div>
+                    <div class="item"> @if(Combinatie.IsYahtzee(worp)){ <div class="yahtzee"> @Combinatie.getScoreFor(worp) </div>} else {<div>0</div>} </div>
+                </div>
+             }
+            
+        </div>
+    </div>
+    <footer>
+        <p> Beste worp: </p> 
+        @foreach(var oog in Model.BesteWorp) {
+                <img src="~/img/dice_@(oog).jpg" />
+        }
+    </footer>
+</div>

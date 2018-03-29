@@ -1,0 +1,19 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+List<Speler> spelers = (List<Speler>) ViewBag.spelers;
+int plaats = 1;
+}
+
+<header class="uitslag"> <h1> Uitslag </h1>  <div>
+        <input type="button" value="Speel opnieuw" onclick="location.href='@Url.Action("Uitslag", "Speel")'" />
+        <input type="button" value="Kies nieuwe spelers" onclick="location.href='@Url.Action("NieuweSpelers", "Speel")'" />
+</div></header>
+
+<div class="scoreboard-container" >
+    @foreach(var speler in spelers) {
+       @await Html.PartialAsync("ScoreBord", speler, new ViewDataDictionary(this.ViewData) { { "plaats", plaats } });
+       plaats++;
+    }
+</div>

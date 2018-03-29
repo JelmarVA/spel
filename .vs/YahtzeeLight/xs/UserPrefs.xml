@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{217A301F-9348-41F1-8310-B204611B63AC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="YahtzeeLight/Infrastructure/Combinatie.cs">
+    <Files>
+      <File FileName="YahtzeeLight/Infrastructure/Combinatie.cs" Line="129" Column="19" />
+      <File FileName="YahtzeeLight/Models/Speler.cs" Line="28" Column="14" />
+      <File FileName="YahtzeeLight/Models/Game.cs" Line="8" Column="6" />
+      <File FileName="YahtzeeLight/Models/Database.cs" Line="42" Column="100" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.YahtzeeLight PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

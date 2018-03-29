@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{DF350C7A-50E2-4DB5-8BB5-1240B113941F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/SpeelController.cs">
+    <Files>
+      <File FileName="Controllers/SpeelController.cs" Line="18" Column="30" />
+      <File FileName="Views/Speel/Gegevens.cshtml" Line="14" Column="33" />
+      <File FileName="wwwroot/css/style.css" Line="14" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.YahtzeeLight PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

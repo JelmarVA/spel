@@ -1,0 +1,154 @@
+﻿* {
+    box-sizing: border-box
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%
+}
+
+body {
+    font-size: 100%;
+    font-family: Verdana;
+    background-color: #aaaaaa;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gegevensContainer {
+    background-color: #f5f5f5;
+    padding: 10px;
+}
+
+    .gegevensContainer img {
+        width: 300px;
+    }
+
+input[type=submit] {
+    width: 100%;
+    height: 150px;
+}
+
+input[type=text] {
+    width: 100%;
+}
+
+.score-label-container {
+    display: grid;
+    grid-template-columns: 150px auto;
+    background: #f5f5f5;
+    grid-column-gap: 5px;
+    border: 5px solid #f5f5f5;
+}
+
+    .score-label-container > div {
+        text-align: center;
+    }
+
+.score-container {
+    display: inline-grid;
+    grid-template-columns: repeat(10, 1fr);
+    background: #f5f5f5;
+     grid-row-gap: 5px;
+     grid-column-gap: 5px;
+}
+
+.score-grid {
+    display: inline-grid;
+    grid-template-rows: repeat(7, 1fr);
+    margin: 0;
+    grid-row-gap: 5px;
+}
+
+.label-container {
+    display: inline-grid;
+    grid-template-rows: repeat(8, 1fr);    grid-row-gap: 5px;
+    grid-column-gap: 5px;
+}
+
+.item {
+    background: #e5e5e5;
+}
+
+.yahtzee {
+    background-color: #66BB6A;
+}
+
+header, footer {
+    display: flex;
+   
+    align-items: center;
+    background: #f5f5f5;
+    padding: 2px 10px;
+}
+
+header {
+    border-bottom: solid #aaa 10px;
+    justify-content: space-between;
+    height: 54px;
+}
+
+footer {
+    border-top: solid #aaa 10px;
+    justify-content: flex-start;
+}
+
+footer img {
+    margin-left: 5px;
+}
+
+header h1, header p {
+    margin: 0;
+}
+
+header div img {
+    height: 40px;
+    width: 30px;
+}
+
+header div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 {
+    margin-left: 10px;
+    font-size: 1.2em;
+}
+
+.scoreboard {
+    border: solid 5px #aaa;
+    width: 50%;
+}
+
+.uitslag {
+    padding: 10px;
+    margin: 5px 5px 0px 5px;
+}
+
+.scoreboard-container {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+@media (max-width: 1200px) {
+    .scoreboard {
+        width: 100%;
+    }
+}
+
+.error {
+    background: #FFCDD2;
+    border: 1px solid #F44336;
+    padding: 3px;
+}

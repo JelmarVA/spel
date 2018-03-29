@@ -1,0 +1,76 @@
+C:/Users/Nijss/Desktop/YahtzeeLight/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.deps.json
+C:/Users/Nijss/Desktop/YahtzeeLight/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.runtimeconfig.json
+C:/Users/Nijss/Desktop/YahtzeeLight/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.runtimeconfig.dev.json
+C:/Users/Nijss/Desktop/YahtzeeLight/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.dll
+C:/Users/Nijss/Desktop/YahtzeeLight/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.pdb
+C:/Users/Nijss/Desktop/YahtzeeLight/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.csprojResolveAssemblyReference.cache
+C:/Users/Nijss/Desktop/YahtzeeLight/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.csproj.CoreCompileInputs.cache
+C:/Users/Nijss/Desktop/YahtzeeLight/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.AssemblyInfoInputs.cache
+C:/Users/Nijss/Desktop/YahtzeeLight/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.AssemblyInfo.cs
+C:/Users/Nijss/Desktop/YahtzeeLight/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.dll
+C:/Users/Nijss/Desktop/YahtzeeLight/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.pdb
+C:/Users/nijss_000/Google Drive/Docent/Programmeren 5/ASP.NET Core MVC/YahtzeeLight/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.deps.json
+C:/Users/nijss_000/Google Drive/Docent/Programmeren 5/ASP.NET Core MVC/YahtzeeLight/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.runtimeconfig.json
+C:/Users/nijss_000/Google Drive/Docent/Programmeren 5/ASP.NET Core MVC/YahtzeeLight/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.runtimeconfig.dev.json
+C:/Users/nijss_000/Google Drive/Docent/Programmeren 5/ASP.NET Core MVC/YahtzeeLight/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.dll
+C:/Users/nijss_000/Google Drive/Docent/Programmeren 5/ASP.NET Core MVC/YahtzeeLight/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.pdb
+C:/Users/nijss_000/Google Drive/Docent/Programmeren 5/ASP.NET Core MVC/YahtzeeLight/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.csprojResolveAssemblyReference.cache
+C:/Users/nijss_000/Google Drive/Docent/Programmeren 5/ASP.NET Core MVC/YahtzeeLight/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.csproj.CoreCompileInputs.cache
+C:/Users/nijss_000/Google Drive/Docent/Programmeren 5/ASP.NET Core MVC/YahtzeeLight/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.AssemblyInfoInputs.cache
+C:/Users/nijss_000/Google Drive/Docent/Programmeren 5/ASP.NET Core MVC/YahtzeeLight/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.AssemblyInfo.cs
+C:/Users/nijss_000/Google Drive/Docent/Programmeren 5/ASP.NET Core MVC/YahtzeeLight/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.dll
+C:/Users/nijss_000/Google Drive/Docent/Programmeren 5/ASP.NET Core MVC/YahtzeeLight/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.pdb
+C:/Users/nijss_000/Desktop/YahtzeeLight_v2/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.deps.json
+C:/Users/nijss_000/Desktop/YahtzeeLight_v2/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.runtimeconfig.json
+C:/Users/nijss_000/Desktop/YahtzeeLight_v2/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.runtimeconfig.dev.json
+C:/Users/nijss_000/Desktop/YahtzeeLight_v2/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.dll
+C:/Users/nijss_000/Desktop/YahtzeeLight_v2/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.pdb
+C:/Users/nijss_000/Desktop/YahtzeeLight_v2/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.csprojResolveAssemblyReference.cache
+C:/Users/nijss_000/Desktop/YahtzeeLight_v2/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.csproj.CoreCompileInputs.cache
+C:/Users/nijss_000/Desktop/YahtzeeLight_v2/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.AssemblyInfoInputs.cache
+C:/Users/nijss_000/Desktop/YahtzeeLight_v2/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.AssemblyInfo.cs
+C:/Users/nijss_000/Desktop/YahtzeeLight_v2/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.dll
+C:/Users/nijss_000/Desktop/YahtzeeLight_v2/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.pdb
+C:/Users/Nijss/Desktop/YahtzeeLight_v3/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.deps.json
+C:/Users/Nijss/Desktop/YahtzeeLight_v3/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.runtimeconfig.json
+C:/Users/Nijss/Desktop/YahtzeeLight_v3/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.runtimeconfig.dev.json
+C:/Users/Nijss/Desktop/YahtzeeLight_v3/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.dll
+C:/Users/Nijss/Desktop/YahtzeeLight_v3/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.pdb
+C:/Users/Nijss/Desktop/YahtzeeLight_v3/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.csprojResolveAssemblyReference.cache
+C:/Users/Nijss/Desktop/YahtzeeLight_v3/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.csproj.CoreCompileInputs.cache
+C:/Users/Nijss/Desktop/YahtzeeLight_v3/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.AssemblyInfoInputs.cache
+C:/Users/Nijss/Desktop/YahtzeeLight_v3/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.AssemblyInfo.cs
+C:/Users/Nijss/Desktop/YahtzeeLight_v3/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.dll
+C:/Users/Nijss/Desktop/YahtzeeLight_v3/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.pdb
+C:/Users/nijss_000/Desktop/YahtzeeLight_v4/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.deps.json
+C:/Users/nijss_000/Desktop/YahtzeeLight_v4/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.runtimeconfig.json
+C:/Users/nijss_000/Desktop/YahtzeeLight_v4/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.runtimeconfig.dev.json
+C:/Users/nijss_000/Desktop/YahtzeeLight_v4/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.dll
+C:/Users/nijss_000/Desktop/YahtzeeLight_v4/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.pdb
+C:/Users/nijss_000/Desktop/YahtzeeLight_v4/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.csprojResolveAssemblyReference.cache
+C:/Users/nijss_000/Desktop/YahtzeeLight_v4/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.csproj.CoreCompileInputs.cache
+C:/Users/nijss_000/Desktop/YahtzeeLight_v4/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.AssemblyInfoInputs.cache
+C:/Users/nijss_000/Desktop/YahtzeeLight_v4/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.AssemblyInfo.cs
+C:/Users/nijss_000/Desktop/YahtzeeLight_v4/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.dll
+C:/Users/nijss_000/Desktop/YahtzeeLight_v4/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.pdb
+/Users/jelmarvanaert/Desktop/Van Aert_Jelmar_c1042421/YahtzeeLight_start/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.deps.json
+/Users/jelmarvanaert/Desktop/Van Aert_Jelmar_c1042421/YahtzeeLight_start/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.runtimeconfig.json
+/Users/jelmarvanaert/Desktop/Van Aert_Jelmar_c1042421/YahtzeeLight_start/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.runtimeconfig.dev.json
+/Users/jelmarvanaert/Desktop/Van Aert_Jelmar_c1042421/YahtzeeLight_start/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.dll
+/Users/jelmarvanaert/Desktop/Van Aert_Jelmar_c1042421/YahtzeeLight_start/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.pdb
+/Users/jelmarvanaert/Desktop/Van Aert_Jelmar_c1042421/YahtzeeLight_start/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.csprojResolveAssemblyReference.cache
+/Users/jelmarvanaert/Desktop/Van Aert_Jelmar_c1042421/YahtzeeLight_start/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.csproj.CoreCompileInputs.cache
+/Users/jelmarvanaert/Desktop/Van Aert_Jelmar_c1042421/YahtzeeLight_start/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.AssemblyInfoInputs.cache
+/Users/jelmarvanaert/Desktop/Van Aert_Jelmar_c1042421/YahtzeeLight_start/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.AssemblyInfo.cs
+/Users/jelmarvanaert/Desktop/Van Aert_Jelmar_c1042421/YahtzeeLight_start/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.dll
+/Users/jelmarvanaert/Desktop/Van Aert_Jelmar_c1042421/YahtzeeLight_start/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.pdb
+/Users/jelmarvanaert/Downloads/YahtzeeLight_start/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.deps.json
+/Users/jelmarvanaert/Downloads/YahtzeeLight_start/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.runtimeconfig.json
+/Users/jelmarvanaert/Downloads/YahtzeeLight_start/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.runtimeconfig.dev.json
+/Users/jelmarvanaert/Downloads/YahtzeeLight_start/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.dll
+/Users/jelmarvanaert/Downloads/YahtzeeLight_start/YahtzeeLight/bin/Debug/netcoreapp2.0/YahtzeeLight.pdb
+/Users/jelmarvanaert/Downloads/YahtzeeLight_start/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.csproj.CoreCompileInputs.cache
+/Users/jelmarvanaert/Downloads/YahtzeeLight_start/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.AssemblyInfoInputs.cache
+/Users/jelmarvanaert/Downloads/YahtzeeLight_start/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.AssemblyInfo.cs
+/Users/jelmarvanaert/Downloads/YahtzeeLight_start/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.dll
+/Users/jelmarvanaert/Downloads/YahtzeeLight_start/YahtzeeLight/obj/Debug/netcoreapp2.0/YahtzeeLight.pdb
